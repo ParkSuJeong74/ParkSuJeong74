@@ -64,11 +64,11 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </p>
-  
+
 <h3 align="center">Ststus</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username={ParkSuJeong74}"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ParkSuJeong74}"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={ParkSuJeong74}"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkSuJeong74&&show_icons=true" width="40%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuJeong74&layout=compact&langs_count=10"/>
 </p>
+  
 More : <a href="https://receptive-hisser-023.notion.site/SJ-Portfolio-2341b2640aaf47b49e749b467c2ae000"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
