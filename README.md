@@ -94,7 +94,7 @@
   
   	
   
-**Contact** : <a href="sujeong9158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+**Contact** : <a href="mailto:sujeong9158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
   
 
