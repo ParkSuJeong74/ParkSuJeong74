@@ -89,12 +89,12 @@
 
 </p>
   
-**More** : <a href="https://receptive-hisser-023.notion.site/SJ-Portfolio-2341b2640aaf47b49e749b467c2ae000"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+**More** : <a href="https://receptive-hisser-023.notion.site/Park-Su-Jeong-72dd4cd2665e4c8dad580711d5df2605"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@sujeong7474"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
  
   
   	
   
-**Contact** : <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+**Contact** : <a href="sujeong9158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
   
 
