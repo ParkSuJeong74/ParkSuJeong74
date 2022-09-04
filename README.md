@@ -79,17 +79,9 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </p>
 
-<h3 align="center">Ststus</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkSuJeong74&&show_icons=true" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuJeong74&layout=compact&langs_count=10" width="40%"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParkSuJeong74" width="40%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ParkSuJeong74" width="40%"/>
-  
-
 </p>
   
-**More** : <a href="https://receptive-hisser-023.notion.site/Park-Su-Jeong-72dd4cd2665e4c8dad580711d5df2605"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@sujeong7474"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+**More** : <a href="https://receptive-hisser-023.notion.site/Park-Su-Jeong-72dd4cd2665e4c8dad580711d5df2605"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@sujeong7474"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
  
   
   	
