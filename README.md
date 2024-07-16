@@ -58,10 +58,6 @@
 
 </p>
   
-**More** : <a href="https://receptive-hisser-023.notion.site/72dd4cd2665e4c8dad580711d5df2605"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-  
-  	
-  
 **Contact** : <a href="mailto:sujeong9158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
   
