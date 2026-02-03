@@ -44,17 +44,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub 통계
-
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSuJeong74&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuJeong74&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 📫 연락처
-- 📧 Email: **developer.ellie@gmail.com**
+- 📧 Email: **ellie@mano.io.kr**
 
 ---
 
